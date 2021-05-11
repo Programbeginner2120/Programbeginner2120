@@ -1,7 +1,8 @@
 # Welcome to my profile!!!
 
-[![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=Programbeginner2120)](https://github.com/Programbeginner2120/github-readme-stats)
+[![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=Programbeginner2120&show_icons=true&theme=radical)](https://github.com/Programbeginner2120/github-readme-stats)
 
+<!---![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)--->
 
 <!--
 **Programbeginner2120/Programbeginner2120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
