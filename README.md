@@ -1,6 +1,6 @@
 # Welcome to my profile!!!
 
-[![Matthew's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Programbeginner2120&theme=tokyonight)
+![Matthew's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Programbeginner2120&theme=tokyonight)
 
 <!--[![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=Programbeginner2120&show_icons=true&theme=tokyonight)](https://github.com/Programbeginner2120/github-readme-stats)
 
