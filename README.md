@@ -68,13 +68,17 @@
 
 ## 🚀 Pinned Projects
 
+### [`My Personal Website`](https://github.com/Programbeginner2120/personal-website)
+> My own personal website, where you can download my resume and connect with me!
+`Angular` `TypeScript`
+
 ### [`operations-analytics-dashboard`](https://github.com/Programbeginner2120/operations-analytics-dashboard)
 > Data visualization tool that you can plug and play with different data sources, most notably Plaid.
 `Java` `Spring Boot` `Angular` `PostgreSQL`
 
-### [`My Personal Website`](https://github.com/Programbeginner2120/personal-website)
-> My own personal website, where you can download my resume and connect with me!
-`Angular` `TypeScript`
+### [`universal-emulator-adapter`](https://github.com/Programbeginner2120/universal-emulator-adapter)
+> A Python library that provides a universal interface for sending input to various game emulators through virtual controller emulation.
+`Python` `vgamepad`
 
 ---
 
